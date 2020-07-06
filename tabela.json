@@ -1,0 +1,103 @@
+{ "cnes": [
+  {
+    "Nome": "SECRETARIA DE SAUDE DE MUTUIPE",
+    "TipoUnidade": "CENTRAL DE GESTAO EM SAUDE",
+    "UF": "BA"
+  },
+  {
+    "Nome": "REABILIT CONSULTORIO DE FISIOTERAPIA",
+    "TipoUnidade": "CLINICA/CENTRO DE ESPECIALIDADE",
+    "UF": "MS"
+  },
+  {
+    "Nome": "SECRETARIA MUNICIPAL DE SAUDE E HIGIENE DE VERA CRUZ",
+    "TipoUnidade": "CENTRAL DE GESTAO EM SAUDE",
+    "UF": "SP"
+  },
+  {
+    "Nome": "CONS SERGIO LUIZ TEIXEIRA M PERES",
+    "TipoUnidade": "CONSULTORIO ISOLADO",
+    "UF": "SP"
+  },
+  {
+    "Nome": "LABORATORIO DOFF SOTTA",
+    "TipoUnidade": "UNIDADE DE APOIO DIAGNOSE E TERAPIA (SADT ISOLADO)",
+    "UF": "PR"
+  },
+  {
+    "Nome": "SAMU BOMBINHAS",
+    "TipoUnidade": "UNIDADE MOVEL DE NIVEL PRE-HOSPITALAR NA AREA DE URGENCIA",
+    "UF": "SC"
+  },
+  {
+    "Nome": "CENTRO DE ATENCAO PSICOSSOCIAL CAPS II",
+    "TipoUnidade": "CENTRO DE ATENCAO PSICOSSOCIAL",
+    "UF": "RN"
+  },
+  {
+    "Nome": "DIMENSAO CLINICA MEDICA",
+    "TipoUnidade": "UNIDADE DE APOIO DIAGNOSE E TERAPIA (SADT ISOLADO)",
+    "UF": "MG"
+  },
+  {
+    "Nome": "JULIANA PEREIRA PERSI",
+    "TipoUnidade": "UNIDADE DE APOIO DIAGNOSE E TERAPIA (SADT ISOLADO)",
+    "UF": "SP"
+  },
+  {
+    "Nome": "CENTRAL DE CONSULTORIOS",
+    "TipoUnidade": "CLINICA/CENTRO DE ESPECIALIDADE",
+    "UF": "CE"
+  },
+  {
+    "Nome": "SMS DE MISSAL",
+    "TipoUnidade": "CENTRAL DE GESTAO EM SAUDE",
+    "UF": "PR"
+  },
+  {
+    "Nome": "CEO CENTRO DE ESPECIALIDADES ODONTOLOGICA DE POJUCA",
+    "TipoUnidade": "CLINICA/CENTRO DE ESPECIALIDADE",
+    "UF": "BA"
+  },
+  {
+    "Nome": "CLINICA SANTA MARIA",
+    "TipoUnidade": "CLINICA/CENTRO DE ESPECIALIDADE",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "SECRETARIA DE SAUDE DOS BARREIROS",
+    "TipoUnidade": "CENTRAL DE GESTAO EM SAUDE",
+    "UF": "PE"
+  },
+  {
+    "Nome": "UNIDADE BASICA DE SAUDE ASSENTAMENTO RIACHO DA CRUZ ESF IV",
+    "TipoUnidade": "CENTRO DE SAUDE/UNIDADE BASICA",
+    "UF": "PB"
+  },
+  {
+    "Nome": "A E CLINICA ESTETICA LTDA ME",
+    "TipoUnidade": "CONSULTORIO ISOLADO",
+    "UF": "SP"
+  },
+  {
+    "Nome": "SECRETARIA DE SAUDE DE TAMANDARE",
+    "TipoUnidade": "CENTRAL DE GESTAO EM SAUDE",
+    "UF": "PE"
+  },
+  {
+    "Nome": "VCP ODONTOLOGIA",
+    "TipoUnidade": "CONSULTORIO ISOLADO",
+    "UF": "DF"
+  },
+  {
+    "Nome": "SECRETARIA DE SAUDE DO RIO FORMOSO",
+    "TipoUnidade": "CENTRAL DE GESTAO EM SAUDE",
+    "UF": "PE"
+  },
+  {
+    "Nome": "SECRETARIA DE SAUDE DE SIRINHAEM",
+    "TipoUnidade": "CENTRAL DE GESTAO EM SAUDE",
+    "UF": "PE"
+  }
+ ]
+}
